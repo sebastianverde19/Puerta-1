@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "ccs": "^0.0.1",
+    "tcs": "^10.0.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}
